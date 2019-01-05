@@ -1,4 +1,6 @@
-# vue_sample_template_uplab
+# vuetify_sample_template_uplab
+
+A simple vuetify template designed to display some uplab designs. Parralax effect and visible on scroll effect
 
 ## Project setup
 ```
