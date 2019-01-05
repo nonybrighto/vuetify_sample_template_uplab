@@ -1,4 +1,4 @@
-# xd_design
+# vue_sample_template_uplab
 
 ## Project setup
 ```
